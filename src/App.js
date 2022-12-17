@@ -17,7 +17,7 @@ function App() {
       <Routes>
         <Route  path="/" element={<Home />} />
         <Route exact path="/post" element={<Post />} />
-        <Route exact path="/adminyogesh" element={<Approve />} />
+        <Route exact path="/adminyashika" element={<Approve />} />
         
       </Routes>
       {/* <Footer/> */}
